@@ -15,10 +15,6 @@ curve_scale = 2;
 
 // Privates
 top_minus_nib_height_ = bottom_height + taper_height + top_height;
-cutout_cube_x_offset_ = (top_outer_diameter - (top_outer_diameter / 3));
-cutout_cube_z_height_ = top_minus_nib_height_ + wall_thickness +
-  inflator_nib_height - inflator_nib_tip - wall_thickness;
-shrink_factor_ = 1.5;
 
 module make_adaptor() {
   union() {
