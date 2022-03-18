@@ -1,7 +1,7 @@
 $fn = 100 * 1;
 
 // Main parameters
-bottom_inner_diameter = 49; // 49mm Fits 1 7/8 vacuum hose.
+bottom_inner_diameter = 49; // 49mm Fits 1 3/4 vacuum hose.
 top_outer_diameter = 6;
 
 // Fine parameters
